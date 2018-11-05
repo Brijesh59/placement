@@ -1,2 +1,1 @@
-# placement
-This repository contains links for placement preparation.
+~ This repository contains links for placement preparation.
